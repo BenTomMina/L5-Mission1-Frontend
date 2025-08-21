@@ -1,0 +1,24 @@
+.mainWindow {
+  max-width: 1000px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.imageContainer {
+  margin-top: 20px;
+}
+
+.image {
+  max-width: 100%;
+  height: "auto";
+}
+
+.button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.results {
+  margin-top: 20px;
+}
